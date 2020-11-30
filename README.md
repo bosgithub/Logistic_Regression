@@ -5,3 +5,7 @@ a model that yields a binary dependent variable. Mathematically, a binary logist
 
 
 ### Let's build a logistic regression classifier to recognize cats :)
+
+
+we will use gradient descent as an optimization algorithm
+
