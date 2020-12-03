@@ -9,3 +9,8 @@ a model that yields a binary dependent variable. Mathematically, a binary logist
 
 we will use gradient descent as an optimization algorithm
 
+1. First, we process the images. Get them ready to feed into the model
+
+2. Second, We use logistic regression in a neural network 
+
+
