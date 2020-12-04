@@ -16,7 +16,7 @@ we will use gradient descent as an optimization algorithm
 
 Functions we have to process:
 1. Sigmoid
-2. Initialize matrix
+2. Initialize matrix(weight and bias)
 
 <br>
 
