@@ -14,3 +14,16 @@ we will use gradient descent as an optimization algorithm
 2. Second, We use logistic regression in a neural network 
 
 
+Functions we have to process:
+1. Sigmoid
+2. Initialize matrix
+
+<br>
+
+propagate function(forward and backward):
+
+<br>
+
+optimization function(gradient descent):
+
+<br>
