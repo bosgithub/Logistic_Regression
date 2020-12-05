@@ -22,6 +22,8 @@ Functions we have to process:
 
 propagate function(forward and backward):
 
+forward-propagation, followed by backward prop, 
+
 <br>
 
 optimization function(gradient descent):
