@@ -29,3 +29,5 @@ forward-propagation, followed by backward prop,
 optimization function(gradient descent):
 
 <br>
+
+Lastly, a function to combine everything:
