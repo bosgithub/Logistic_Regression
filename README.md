@@ -15,7 +15,7 @@ we will use gradient descent as an optimization algorithm
 
 
 Functions we have to process:
-1. Sigmoid
+1. Sigmoid function: for classification purposes
 2. Initialize matrix(weight and bias)
 
 <br>
