@@ -24,6 +24,12 @@ propagate function(forward and backward):
 
 forward-propagation, followed by backward prop, for learning the parameters
 
+We get input features X
+
+Using X to compute for the logit A = sigma(wTX + b)
+
+Calculate the cost function
+
 <br>
 
 optimization function(gradient descent):
