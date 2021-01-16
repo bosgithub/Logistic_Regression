@@ -22,7 +22,7 @@ Functions we have to process:
 
 propagate function(forward and backward):
 
-forward-propagation, followed by backward prop, 
+forward-propagation, followed by backward prop, for learning the parameters
 
 <br>
 
