@@ -33,6 +33,7 @@ Calculate the cost function
 <br>
 
 optimization function(gradient descent):
+Learn the weights and bias term by minimizing the cost function, this is done using theta = theta - alpha\*dtheta
 
 <br>
 
